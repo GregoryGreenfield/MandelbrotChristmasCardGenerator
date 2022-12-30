@@ -1,1 +1,2 @@
-*.TeX linguist-language=Java
+*.TeX linguist-language=Python
+*.pbcproj binary merge=union
