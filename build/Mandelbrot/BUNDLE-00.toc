@@ -1,0 +1,3 @@
+([('Mandelbrot',
+   '/Users/GregoryLE32FH/Projects/Python/Mandelbrot/dist/Mandelbrot',
+   'EXECUTABLE')],)
