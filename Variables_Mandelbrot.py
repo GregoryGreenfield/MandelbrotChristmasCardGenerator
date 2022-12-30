@@ -5,4 +5,4 @@ cursor_x = x_indendation
 cursor_y = 220
 
 #sets the character size
-cs = 60
+cs = 59

@@ -1,2 +1,3 @@
-*.TeX linguist-language=Python
-*.pbcproj binary merge=union
+build/* linguist-generated
+dist/* linguist-generated
+__pycache__/* linguist-generated
